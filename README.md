@@ -1,4 +1,4 @@
-````markdown
+
 # IGA Product Search API
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -37,9 +37,10 @@ A simple RESTful API built with Node.js and Playwright to scrape product listing
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vonuyvicoo/iga-product-search-api.git
-   cd iga-product-search-api
-````
+   git clone https://github.com/vonuyvicoo/iga-scraper.git
+   cd iga-scraper
+   ```
+
 
 2. Install dependencies:
 
@@ -141,5 +142,4 @@ Contributions are welcome! Please open an issue or submit a pull request with yo
 
 This project is licensed under the MIT License.
 
-```
-```
+
